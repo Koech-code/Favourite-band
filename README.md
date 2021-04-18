@@ -2,7 +2,7 @@
 
 # My Favoritie Band Project
 
-> Using pure html and basic css, I have created a webpage of my favorite music band.
+> This is my favourite band,I have writeen it using HTML and CSS.
 
 ## Built With
 
@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://koech-code.github.io/Favourite-band/)
 
 
 ## Getting Started
@@ -27,7 +27,7 @@ A computer with a working and up to date web browser.
 
 - Clone the repository to your folder of choice using Git (or just download all the files)
 ```
-$ git clone 
+$ git clone https://github.com/Koech-code/Favourite-band.git
 
 ```
 - Open the index.html file (in the root folder) and the website should show up.
@@ -35,9 +35,10 @@ $ git clone
 ## Author
 
 👤 **Author**
+Nixon Kipkorir Koech
+- GitHub: [@KOECH-CODE](https://github.com/Koech-code)
+- e-mail: nixon.koech@student.moringaschool.com
 
-- GitHub: [)
-- twitter [)
 
 
 
