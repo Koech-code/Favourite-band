@@ -2,7 +2,7 @@
 
 # My Favoritie Band Project
 
-> This is my favourite band,I have writeen it using HTML and CSS.
+> This is my favourite band,I have written it using HTML and CSS.
 
 ## Built With
 
