@@ -33,7 +33,7 @@ body{
 h1{
     font-size: 70px;
     font-style: italic;
-    color: purple;
+    color:lawngreen;
 }
 h2{
     font-size: 40px;
@@ -46,5 +46,5 @@ h2{
 }
 .ptsn{
     display:flex;
-    justify-content: space-between;
+    justify-content:space-between;
 }
