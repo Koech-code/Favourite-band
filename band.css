@@ -44,3 +44,7 @@ h2{
     display:flex;
     justify-content:space-between;
 }
+.ptsn{
+    display:flex;
+    justify-content: space-between;
+}
