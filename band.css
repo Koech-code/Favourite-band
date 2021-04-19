@@ -64,3 +64,9 @@ h3{
 .prghp{
     float: left;
 }
+#lastp{
+    color: red;
+}
+.list ol li{
+    font-weight: 600;
+}
