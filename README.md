@@ -36,7 +36,7 @@ $ git clone https://github.com/Koech-code/Favourite-band.git
 
 👤 **Author**
 Nixon Kipkorir Koech
-- GitHub: [@KOECH-CODE](https://github.com/Koech-code)
+- GitHub: [@koech-code](https://github.com/Koech-code)
 - e-mail: nixon.koech@student.moringaschool.com
 
 
