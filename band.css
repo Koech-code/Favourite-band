@@ -1,3 +1,5 @@
+
+ 
 body{
     background-image: url(music.lg.png);
     background-repeat: no-repeat;
@@ -35,6 +37,7 @@ h1{
     font-style: italic;
     color:purple;
     text-shadow: 3px 3px 5px red;
+    text-align: center;
 }
 h2{
     font-size: 40px;
@@ -48,6 +51,8 @@ h2{
 .ptsn{
     display:flex;
     justify-content:space-between;
+    margin-bottom: 40px;
+    width: 500;
 }
 h4{
     color: rebeccapurple;
@@ -58,6 +63,7 @@ h4{
  font-weight: bold;
  width: 24%;
  background-color: green;
+
 }
 h3{
     color: salmon;
@@ -68,3 +74,19 @@ h3{
 .list ol li{
     font-weight: 600;
 }
+.body{
+ background-color: green;
+ margin: 0px;
+ padding: 50px;
+ box-shadow: 2px 2px 5px red;
+}
+.tatiana{
+    padding: 0px 50px ;
+}
+.tmanois{
+    margin: 90px 0;
+    width: 450px;
+    height: 500px;
+    
+}
+
