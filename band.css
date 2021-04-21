@@ -34,6 +34,7 @@ h1{
     font-size: 70px;
     font-style: italic;
     color:purple;
+    text-shadow: 3px 3px 5px red;
 }
 h2{
     font-size: 40px;
@@ -61,8 +62,7 @@ h4{
 h3{
     color: salmon;
 }
-.prghp{
-    float: left;
+
 }
 #lastp{
     color: red;
