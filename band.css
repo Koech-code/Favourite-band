@@ -1,4 +1,4 @@
-
+/*
  
 body{
     background-image: url(music.lg.png);
@@ -6,7 +6,7 @@ body{
     background-size: cover;
 }
 
-
+*/
 .container{
     height: 100;
     position: relative;
@@ -20,7 +20,7 @@ body{
     justify-content: space-between;
     border:15px solid turquoise;
     border-radius: 10px;
-    background-color: lawngreen;
+    background-color: rgb(168, 172, 164);
 }
 .navbar ul li{
     list-style: none;
@@ -77,8 +77,10 @@ h3{
 .body{
  background-color: green;
  margin: 0px;
- padding: 50px;
+ padding: 0px;
  box-shadow: 2px 2px 5px red;
+ width: 100%;
+ height: 80%;
 }
 .tatiana{
     padding: 0px 50px ;
